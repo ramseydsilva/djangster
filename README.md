@@ -1,0 +1,4 @@
+djangster
+=========
+
+Django boilerplate generator
